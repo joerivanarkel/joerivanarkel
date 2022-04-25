@@ -1,5 +1,9 @@
 
 # Azure | AZ-204
+_Developing Solutions for Microsoft Azure_
+<details>
+  <summary>Project List</summary>
+  
 ### Compute solutions: 25-30%
 - [ ] ARM templates
 - [x] Azure Container
@@ -48,5 +52,7 @@
 
 > [joerivanarkel / AzureTableStorage](https://github.com/joerivanarkel/AzureTableStorage) <br>
 > *Creating, Querying and Deleting Tables and TableEntities in Azure Table Storage*
+  
+  </details>
 
 
