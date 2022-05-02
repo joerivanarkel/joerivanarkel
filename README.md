@@ -16,8 +16,11 @@ _Developing Solutions for Microsoft Azure_
 > [joerivanarkel / AzureFunctionsBlobStorage](https://github.com/joerivanarkel/AzureFunctionsBlobStorage) <br>
 > *Using Azure Functions to interact with Blob Storage*
 
-- [ ] Azure Web App
-
+- [x] Azure Web App
+  
+> [joerivanarkel / Azure Web App.md](https://gist.github.com/joerivanarkel/9a1fc674c2f335f3e58fea3491920fc3) <br>
+> *Deploying a .NET core project to an Azure Web App*
+  
 ### Storage solutions:15-20%
 - [ ] Cosmos Db:
 - [x] Blob
