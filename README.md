@@ -30,7 +30,11 @@ _Developing Solutions for Microsoft Azure_
 
 
 ### Azure security: 20-25%
-- [ ] Azure web-app - Microsoft Identity
+- [x] Azure web-app - Microsoft Identity
+  
+> [joerivanarkel / MicrosoftIdentity.md](https://gist.github.com/joerivanarkel/129ed936515e8e1642d6e05f6cd68cc3) <br>
+> *Creating a Web App using Microsoft Identity and Azure Active Directory.*
+  
 - [ ] Azure web-app - Azure AD
 - [ ] Azure web-app - Azure Key Vault - Azure secrets
 
