@@ -39,7 +39,11 @@ _Developing Solutions for Microsoft Azure_
 - [ ] Azure web-app - Azure Key Vault - Azure secrets
 
 ### Monitor en Troubleshoot: 15-20%
-- [ ] Azure Redis Cache
+- [x] Azure Redis Cache
+  
+> [joerivanarkel / AzureRedisCache](https://github.com/joerivanarkel/AzureRedisCache) <br>
+> *Storing Data and Querying in and from Azure Redis Cache.*
+  
 - [ ] Application Insights
 
 ### Connect and use Azure Services: 15-20%
