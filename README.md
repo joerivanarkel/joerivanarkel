@@ -58,9 +58,9 @@ _Developing Solutions for Microsoft Azure_
 
 > [joerivanarkel / AzureTableStorage](https://github.com/joerivanarkel/AzureTableStorage) <br>
 > *Creating, Querying and Deleting Tables and TableEntities in Azure Table Storage*
-  </details>
   
 - [ ] Azure Logic Apps
+    </details>
 
 ## Other
 <details>
