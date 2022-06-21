@@ -5,9 +5,7 @@ on:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches: [ main ]
     
 jobs:
   update-readme:
