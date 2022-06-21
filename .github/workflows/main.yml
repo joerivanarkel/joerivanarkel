@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: joeri-van-arkel
