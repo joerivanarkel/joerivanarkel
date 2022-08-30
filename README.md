@@ -5,4 +5,8 @@
 #### [Others](Others.md)
 --------
 
-[![joerivanarkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joerivanarkel&layout=compact&theme=dark)](https://github.com/joerivanarkel/joerivanarkel)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joerivanarkel&layout=compact&theme=dark)](https://github.com/joerivanarkel/joerivanarkel)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joerivanarkel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joerivanarkel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joerivanarkel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joerivanarkel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joerivanarkel&theme=github_dark&utcOffset=1)
