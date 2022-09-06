@@ -1,8 +1,8 @@
 # Joeri van Arkel
 
 #### [AZ-204](AZ204.md)
-#### [PCAP-31](PCAP-31.md)
-#### [Others](Others.md)
+<!--#### [PCAP-31](PCAP-31.md))-->
+<!--#### [Others](Others.md)-->
 --------
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joerivanarkel&theme=github_dark)
