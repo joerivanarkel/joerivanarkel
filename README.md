@@ -20,7 +20,5 @@
 <!--#### [Others](Others.md)-->
 </details>
 
-<figure>
-  <embed src="https://wakatime.com/share/@joerivanarkel/f129c2da-f5f1-4d17-8068-0a77be40bd52.svg">
-  </embed>
-</figure>
+![Wakatime](https://wakatime.com/share/@joerivanarkel/f129c2da-f5f1-4d17-8068-0a77be40bd52.svg)
+
