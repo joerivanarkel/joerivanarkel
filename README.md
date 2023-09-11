@@ -1,6 +1,7 @@
-# Joeri van Arkel
+<h1 align="center">Hi 👋, I'm Joeri van Arkel</h1>
 
-
+- 🔭 I’m currently working on [pirate](https://github.com/piratelang/pirate)
+- 🌱 I’m currently learning **F#, Nim**
 
 <details>
   <summary>Github Stats</summary>
@@ -20,5 +21,9 @@
 <!--#### [Others](Others.md)-->
 </details>
 
+<details>
+  <summary>Wakatime</summary>
+  
 ![Wakatime](https://wakatime.com/share/@joerivanarkel/f129c2da-f5f1-4d17-8068-0a77be40bd52.svg)
+</details>
 
