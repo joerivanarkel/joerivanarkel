@@ -24,6 +24,6 @@
 <details>
   <summary>Wakatime</summary>
   
-![Wakatime](https://wakatime.com/share/@joerivanarkel/5c6eb15c-51e2-4eb3-ab5f-548c32f00183.svg)
+  ![Wakatime](https://wakatime.com/share/@joerivanarkel/5c6eb15c-51e2-4eb3-ab5f-548c32f00183.svg)
 </details>
 
