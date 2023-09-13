@@ -24,6 +24,8 @@
 <details>
   <summary>Wakatime</summary>
   
-  ![Wakatime](https://wakatime.com/share/@joerivanarkel/5c6eb15c-51e2-4eb3-ab5f-548c32f00183.svg)
+  ![Wakatime](https://wakatime.com/share/@joerivanarkel/aabb5ef2-fd64-47f6-9aee-1e93188c98ef.png)
+  ![Wakatime Editor](https://wakatime.com/share/@joerivanarkel/d48a501e-86b5-435d-b388-c0a7d48156b9.png)
+  ![Wakatime Category](https://wakatime.com/share/@joerivanarkel/793abed2-622c-4a45-bf48-fc5bea719d8d.png)
 </details>
 
