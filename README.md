@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joeri van Arkel</h1>
 
+![image](https://github.com/joerivanarkel/joerivanarkel/assets/98022003/705f129c-61f0-41cd-81c3-e8b1ae36bc80)
+
+
 - 🔭 I’m currently working on [pirate](https://github.com/piratelang/pirate)
 - 🌱 I’m currently learning **F#, Nim**
 
